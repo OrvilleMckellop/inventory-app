@@ -1,0 +1,44 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore environment variables file
+.env
+
+# Ignore IDE configuration files
+.vscode/
+.idea/
+
+# Ignore compiled code
+dist/
+build/
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+
+# Ignore coverage reports
+coverage/
+*.lcov
+
+# Ignore dependency directories
+bower_components/
+jspm_packages/
+
+# Ignore system files
+Thumbs.db
+desktop.ini
